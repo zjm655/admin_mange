@@ -1,1 +1,0 @@
-const t=()=>{const t=window.innerWidth;let n;n=t<=750?30:t<=1024?53:t<=1440?75:100,document.documentElement.style.fontSize=n+"px"},n=(t,n)=>{const o=t.__vccOpts||t;for(const[e,s]of n)o[e]=s;return o};export{n as _,t as s};
